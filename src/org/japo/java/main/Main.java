@@ -1,5 +1,5 @@
 /*
- * Copyright 2019 Josefina Pugliese Vazquez - josefinamilagros.pugliese.alum@iescamp.es.
+ * Copyright 2019 Josefina Pugliese Vazquez - josefinapwork@gmail.com.
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -17,11 +17,14 @@ package org.japo.java.main;
 
 /**
  *
- * @author Josefina Pugliese Vazquez - josefinamilagros.pugliese.alum@iescamp.es
+ * @author Josefina Pugliese Vazquez
  */
 public class Main {
     
     public static void main(String[] args){
+        System.out.println("Articulo 1. El jefe tiene la razón.");
+        System.out.println("Articulo 2. El jefe SIEMPRE tiene la razón.");
+        System.out.println("Articulo 3. En caso de duda se aplicará el articulo 2.");
     }
     
 }
